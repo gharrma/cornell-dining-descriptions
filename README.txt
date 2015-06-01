@@ -11,3 +11,4 @@ To make any changes:
 - Edit the relevant files in the locations directory. Each location has its own file, formatted with three sections ('what', 'description', and 'menu') separated with two blank lines.
 - If a new location needs to be added, add it to the locations.txt file and run the make_files.bash script.
 - When done, run the make.bash script to update the final.json file.
+- Or... just ask me to update it! You can email me (Matthew Gharrity) at my cornell email address: mjg355
