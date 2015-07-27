@@ -26,3 +26,5 @@ rose_house_dining_room
 rustys
 synapsis_cafe
 trillium
+sweet_sensations
+bus_stop_bagels

@@ -34,6 +34,11 @@
         "menu": "Finger Lakes Coffee, Mighty Leaf Tea, Pepsi Beverages, Salads, Breakfast Menu, Pasta, Pizza, Deli and Specialty Sandwiches, Subs and Grab-n-Go items",
         "what": "a caf\u00e9 and graduate/professional student community center"
     },
+    "bus_stop_bagels": {
+        "description": "Bagels for breakfast, bagels for lunch, bagels to go! Bus Stop Bagels, next to the Trillium food court in Kennedy Hall, is the perfect place to indulge your bagel craving. Fresh bagels delivered twice a day from Ithaca Bakery with all the usual toppings and a great selection of house sandwiches, plus Starbucks coffee drinks and snack foods.",
+        "menu": "Starbucks Specialty Coffees, Tazo Tea, 96oz Coffee2Go, Pepsi Beverages, Breakfast Sandwiches, Bagel Sandwiches, Snack Foods",
+        "what": "breakfast and lunch bagels and coffee in Kennedy Hall"
+    },
     "cafe_jennie": {
         "description": "Caf\u00e9 Jennie is named for Jennie McGraw, the daughter of John McGraw, a wealthy industrialist and a founding Cornell Trustee. Upon her death in 1881, she left the majority of her estate to Cornell. Funds were used to purchase the chimes for the library, establish an endowment for a student hospital, and build an addition to Sage Chapel. Jennie's generosity and love of Cornell moved us to name the caf\u00e9 at the Cornell Store for her.\n\nStop by for a warm cup of Peet's Coffee & Tea beverages, delicious Cheesecake Factory baked goods, or a mouth-watering array of sandwiches and wraps designed just for Caf\u00e9 Jennie. Remember, you can use your Big Red Bucks to save on food and beverages at Caf\u00e9 Jennie!",
         "menu": "Join us in the morning for Steel Cut Oatmeal, Chobani Greek Style Yogurt, or Chorizo or a Vegetable Frittata Bagel Sandwich. Pop by at lunchtime for one of our creative new sandwiches and wraps, like Beef Brisket, Roasted Vegetable Focaccia, or Thai Chicken. Or visit any time for brewed coffee or tea or an espresso beverage made with Peet's Coffee.",
@@ -128,6 +133,11 @@
         "description": "Conveniently located in the lobby of Uris Hall, Rusty's is a great place to grab a quick coffee or a bite to eat on your way to class or work.\n\nAt any time of day, you're sure to find something to whet your appetite, from Starbucks specialty coffees and Straight from the Oven baked goods, to Freshtake Grab-n-Go sandwiches and salads.",
         "menu": "Starbucks Specialty Coffees, Tazo Tea, Hot Cocoa, Pepsi Beverages, Baked Goods and Grab-n-Go items",
         "what": "a coffee shop in Uris Hall"
+    },
+    "sweet_sensations": {
+        "description": "Sweet Sensations is conveniently located on the first floor of Appel Commons, across from the Appel Service Center. \n\nSwing by for a decadent cupcake baked right upstairs at Cornell Dining's own Sweet Sensations Bakery, enjoy a warm cinnamon roll, or pre-order a custom cake for a buddy's birthday or any celebration, complete with edible decor from your graphic or photo.\n\nWant to order a special occasion cake or other specialty items for delivery on campus? Whether you're a parent ordering for your student who's away at school, or friend who wants to help a buddy celebrate, fill out the Sweet Sensations order form and we'll do the rest.",
+        "menu": "Cakes, cupcakes, seasonal pies, chocolate covered apples, cake pops, and other fresh baked goods from the Sweet Sensations Bakery",
+        "what": "Cornell's own bakery outlet with fresh baked treats and coffee"
     },
     "synapsis_cafe": {
         "description": "The sleek and modern Synapsis Caf\u00e9 is one of our newest eateries, located in Weill Hall in the Biology Quad. Now open late Monday through Thursday during the semester!\n\nStop in to try our pasta bakes, ultra-thin pizzas, and paninis.  Vegan pasta bakes and pizzas are now available, featuring Daiya mozzarella. And quench your thirst with a hot specialty coffee from Finger Lakes Coffee Roasters, or a delicious smoothie.",
