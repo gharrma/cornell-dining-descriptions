@@ -7,7 +7,6 @@ becker_house_dining_room
 big_red_barn
 cafe_jennie
 carols_cafe
-cascadeli
 cook_house_dining_room
 cornell_dairy_bar
 goldies
